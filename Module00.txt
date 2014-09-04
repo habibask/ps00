@@ -1,0 +1,16 @@
+MODULE-00:
+=========
+
+Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
+———-  ——-       —————  ———-  ————————————- ———————- —————————-    ———————-
+09/1  Habiba	18.50  19.30  10            1        30            Time taken to download Office, github and racket.
+                                                                   contacted peers for ccis login help.
+                                                                   waiting for ccis login to be set to register on piazza and github.
+09/04 Habiba    08.10  08:41                         31            Completed setup of github and learnt the process to work on it.
+                                                                   Gone through the Q&A in Piazza    
+09/04 Habiba    08:53                                              Learning to commit the .txt file to GIT.                   
+
+============committing to github 09/04 08:53 ===================
+    
+Total Time (minutes)                 :                   
+Total time (hours and tenths)        :                 
